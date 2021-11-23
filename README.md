@@ -1,13 +1,13 @@
 # Hello Microverse 
 
-# Description
+## Description
 
-## This is my first **Project** at Microverse. 
+### This is my first **Project** at Microverse. 
 **The aim of the project is to master all of the tools and best practices I learned in the second day of the program.** This includes:-
 
-    - [ ] Documenting our work in a professional way
-    - [ ] Making sure that there are no linter errors
-    - [ ] Using Githubflow properly
+    - Documenting our work in a professional way
+    -  Making sure that there are no linter errors
+    -  Using Githubflow properly
 
 **The project includes the following files**
 
