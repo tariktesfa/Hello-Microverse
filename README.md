@@ -1,10 +1,16 @@
 # Hello Microverse
 
 > This is my first project at Microverse.
+
 ## Built With
 
 - HTML
 - CSS
+
+## Screenshot
+![screenshot](https://user-images.githubusercontent.com/38283436/143181532-2d24cdf9-9150-4395-b035-e441a7015781.PNG)
+
+
 ## Getting Started
 
 **The aim of the project is to master all of the tools and best practices I learned in the second day of the program. This includes:**
@@ -41,3 +47,5 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - To my coding partner
+- Microverse Teams
+- Code Reviewer
